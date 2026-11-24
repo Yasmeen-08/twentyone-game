@@ -17,3 +17,5 @@ A Blackjack game built with Python and Streamlit, with an animated casino table.
 - `app.py`: Streamlit app
 - `index.html`: the game (HTML, CSS, JavaScript)
 - `game.py`: the original terminal version
+
+LIVE DEMO :- https://twentyone-game-m2qcpaedocg48ymwfqmtsb.streamlit.app/
